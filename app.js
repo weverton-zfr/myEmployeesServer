@@ -3,6 +3,7 @@ const express = require("express")
 
 //importando rotas
 const routeEmployee = require("./routes/employee")
+const routePositions = require("./routes/positions")
 
 //chamando o express
 const app = express()
@@ -16,6 +17,8 @@ app.use((req, res, next) => {
 });
 
 app.use('/employee', routeEmployee)
+
+app.use('/positions', routePositions)
 
 //porta do server
 const port = 8000
