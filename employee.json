@@ -1,1 +1,13 @@
-[{"id":0,"name":"Rodolfo","LastName":"Aristoteles","age":32,"position":"Gerente","salary":8000,"married":true,"email":"rodolfo009@gmail.com","telefone":12990841982,"photo":"https://picsum.photos/280/200?random=1"},{"id":1,"name":"Ronaldo","LastName":"Pereira da Silva","age":23,"position":"Comprador","salary":4000,"married":false,"email":"ronaldaolegal12@gmail.com","telefone":19992311982,"photo":"https://picsum.photos/280/200?random=2"},{"id":2,"name":"Jessica","LastName":"Silva Pinto","age":19,"position":"Atendente","salary":2300,"married":false,"email":"jessicaalbuquerque@gmail.com","telefone":11990840012,"photo":"https://picsum.photos/280/200?random=3"},{"id":3,"name":"Leonardo","LastName":"Silvestre Ribeiro","age":25,"position":"Repositor","salary":1800,"married":true,"email":"leozinpika244@gmail.com","telefone":18992443636,"photo":"https://picsum.photos/280/200?random=4"},{"id":3,"name":"Leonardo","LastName":"Silvestre Ribeiro","age":25,"position":"Repositor","salary":1800,"married":true,"email":"leozinpika244@gmail.com","telefone":18992443636,"photo":"https://picsum.photos/280/200?random=4"}]
+[
+    {
+        "id":0,
+        "name":"Rodolf Aristoteles",
+        "age":32,"position":"Gerente"
+        ,"salary":8000,
+        "married":true,
+        "email":"rodolfo009@gmail.com",
+        "telefone":12990841982,
+        "photo":"https://picsum.photos/280/200",
+        "about":"Rodolf é um gerente experiente com mais de 10 anos de atuação na área administrativa. Ele é conhecido por sua habilidade em liderar equipes e otimizar processos para aumentar a eficiência operacional."
+    }
+]
