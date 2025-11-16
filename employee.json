@@ -1,13 +1,1 @@
-[
-    {
-        "id":0,
-        "name":"Rodolf Aristoteles",
-        "age":32,"position":"Gerente"
-        ,"salary":8000,
-        "married":true,
-        "email":"rodolfo009@gmail.com",
-        "telefone":12990841982,
-        "photo":"https://picsum.photos/280/200",
-        "about":"Rodolf é um gerente experiente com mais de 10 anos de atuação na área administrativa. Ele é conhecido por sua habilidade em liderar equipes e otimizar processos para aumentar a eficiência operacional."
-    }
-]
+[{"id":7,"name":"Patrícia Silva","age":33,"position":"Supervisora de Vendas","salary":6700,"email":"patricia.gomes@gmail.com","telefone":11990331211,"photo":"https://picsum.photos/280/200"},{"id":9,"name":"Camila Rocha","age":30,"position":"Desenvolvedora Back-End","salary":6700,"email":"camila.rocha@gmail.com","telefone":11990123456,"photo":"https://picsum.photos/280/200"},{"id":10,"name":"Gustavo Almeida","age":25,"position":"Assistente Financeiro","salary":3500,"email":"gustavo.almeida@gmail.com","telefone":31998117766,"photo":"https://picsum.photos/280/200"},{"id":12,"name":"Henrique Barbosa","age":29,"position":"Engenheiro de Software","salary":8500,"email":"henrique.barbosa@gmail.com","telefone":21998841122,"photo":"https://picsum.photos/280/200"},{"id":13,"name":"Larissa Nogueira","age":23,"position":"Assistente Administrativo","salary":2800,"email":"larissa.nogueira@gmail.com","telefone":21998765432,"photo":"https://picsum.photos/280/200"},{"id":14,"name":"André Sales","age":38,"position":"Diretor Comercial","salary":11000,"email":"andre.castro@gmail.com","telefone":31999000123,"photo":"https://picsum.photos/280/200"},{"id":15,"name":"Tatiane Oliveira","age":28,"position":"Analista de Dados","salary":6000,"email":"tatiane.oliveira@gmail.com","telefone":11993422100,"photo":"https://picsum.photos/280/200"},{"id":16,"name":"Ricardo Silva","age":32,"position":"Técnico de Suporte","salary":4200,"email":"ricardo.silva@gmail.com","telefone":21997000654,"photo":"https://picsum.photos/280/200"},{"id":17,"name":"Sabrina Lopes","age":27,"position":"UX Designer","salary":5500,"email":"sabrina.lopes@gmail.com","telefone":11993004567,"photo":"https://picsum.photos/280/200"},{"id":18,"name":"Felipe Cardoso","age":30,"position":"Analista de Suporte","salary":4000,"email":"felipe.cardoso@gmail.com","telefone":21998007789,"photo":"https://picsum.photos/280/200"},{"id":19,"name":"Vitória Ramos","age":26,"position":"Desenvolvedora Full-Stack","salary":7200,"email":"vitoria.ramos@gmail.com","telefone":11991112233,"photo":"https://picsum.photos/280/200"}]

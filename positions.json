@@ -1,1 +1,10 @@
-["Comprador","Gerente","Repositor","Atendente"]
+[ 
+    { "id": 1, "cargo": "Gerente" },
+    { "id": 2, "cargo": "Desenvolvedor(a)" },
+    { "id": 3, "cargo": "Designer" },
+    { "id": 4, "cargo": "Analista de RH" },
+    { "id": 5, "cargo": "Analista Financeiro" },
+    { "id": 6, "cargo": "Vendedor(a)" },
+    { "id": 7, "cargo": "Atendente" },
+    { "id": 8, "cargo": "Auxiliar de Serviços Gerais" }
+]
